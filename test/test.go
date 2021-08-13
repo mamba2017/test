@@ -1,5 +1,10 @@
 package test
+
 import "fmt"
-func Test1(){
-	ftm.Println("跳到用")
+
+func Test(){
+
+
+fmt.Println("this is a test file ")
+
 }
